@@ -5,9 +5,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <div><b>Languages</b></div>
-    <img src="https://skillicons.dev/icons?i=java,html,css,cs,php,laravel,py,md">
+    <img src="https://skillicons.dev/icons?i=java,html,css,cs,php,py,md">
     <div><b>Frameworks</b></div>
-    <img src="https://skillicons.dev/icons?i=dotnet,spring,selenium">
+    <img src="https://skillicons.dev/icons?i=dotnet,spring,laravel,selenium">
     <div><b>Others</b></div>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,linux">
     <div><b>Version control</b></div>
