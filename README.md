@@ -10,8 +10,10 @@
     <img src="https://skillicons.dev/icons?i=dotnet,spring,selenium">
     <div><b>Others</b></div>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,linux">
+    <div><b>Version control</b></div>
+    <img src="https://skillicons.dev/icons?i=git,github">
     <div><b>Persistence</b></div>
-    <img src="https://skillicons.dev/icons?i=git,github,postgres,mysql">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql">
     <div><b>Tools</b></div>
     <img src="https://skillicons.dev/icons?i=ps,sketchup">
   </a>
