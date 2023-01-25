@@ -1,5 +1,5 @@
-### Hi, I'm Pau
-## a DAM student in Catalonia, Spain
+## Hi, I'm Pau
+### a DAM student in Catalonia, Spain
 
 **Tecnologies I Kow**
 <p align="center">
