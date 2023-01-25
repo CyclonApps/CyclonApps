@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Pau
+### Hi, I'm Pau
 ## a DAM student in Catalonia, Spain
 
 **Tecnologies I Kow**
