@@ -7,7 +7,7 @@
     <div><b>Languages</b></div>
     <img src="https://skillicons.dev/icons?i=java,html,css,cs,php,laravel,py,md">
     <div><b>Frameworks</b></div>
-    <img src="https://skillicons.dev/icons?i=spring,selenium,dotnet">
+    <img src="https://skillicons.dev/icons?i=dotnet,spring,selenium">
     <div><b>Others</b></div>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,linux">
     <div><b>Persistence</b></div>
