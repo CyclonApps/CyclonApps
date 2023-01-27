@@ -1,7 +1,7 @@
 ## Hi, I'm Pau
 ### a DAM student in Catalonia, Spain
 
-**Tecnologies I Kow**
+**Tecnologies I Know**
 <p align="center">
   <a href="https://skillicons.dev">
     <div><b>Languages</b></div>
