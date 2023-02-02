@@ -15,6 +15,6 @@
     <div><b>Persistence</b></div>
     <img src="https://skillicons.dev/icons?i=postgres,mysql">
     <div><b>Tools</b></div>
-    <img src="https://skillicons.dev/icons?i=ps,sketchup">
+    <img src="https://skillicons.dev/icons?i=ps,sketchup,postman">
   </a>
 </p>
