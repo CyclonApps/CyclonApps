@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <div><b>Languages</b></div>
-    <img src="https://skillicons.dev/icons?i=java,html,css,cs,php,py,md">
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,cs,php,py,md">
     <div><b>Frameworks</b></div>
     <img src="https://skillicons.dev/icons?i=dotnet,spring,laravel,react,selenium,bootstrap">
     <div><b>Others</b></div>
