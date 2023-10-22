@@ -1,5 +1,5 @@
 ## Hi, I'm Pau
-### a DAM student in Catalonia, Spain
+### a Superior technician in Cross Platform Application Development in Catalonia, Spain
 
 **Tecnologies I Know**
 <p align="center">
