@@ -11,7 +11,7 @@
     <div><b>Others</b></div>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,linux,figma,unity">
     <div><b>Version control</b></div>
-    <img src="https://skillicons.dev/icons?i=git,github">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab">
     <div><b>Persistence</b></div>
     <img src="https://skillicons.dev/icons?i=postgres,mysql">
     <div><b>Tools</b></div>
